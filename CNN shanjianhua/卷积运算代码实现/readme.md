@@ -31,7 +31,9 @@ A-->C[0填充]
 	* 自标度化 Y=(x-aver)/std
 	* 标准化
 		* 色谱面积最大化 xi=xi/sum.xi
+		> Y=X.T S=Y.sum (axis=0) Y=Y/S Y=Y.T
 		* 质谱最大归一化 xi=xi/max.x
+		> Y=X.T max=Y.max (axis=0) Y=Y/max Y=Y.T
 	 	
 	 	
 <summary>Formulas</summary>
