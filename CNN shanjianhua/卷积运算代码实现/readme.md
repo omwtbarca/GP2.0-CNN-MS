@@ -27,7 +27,7 @@ A-->C[0填充]
 |Prewitt|
 |Laplace|
 * 4种数据预处理方法 (axis=0 列，axis=1 行)
-	* 中心化 Y=X-aver;xi-x-
+	* 中心化 Y=X-aver;xi-x.mean
 	* 自标度化 Y=(x-aver)/std
 	* 标准化
 		* 色谱面积最大化 xi=xi/sum.xi
