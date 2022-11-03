@@ -26,6 +26,14 @@ A-->C[0填充]
 |Sobel|
 |Prewitt|
 |Laplace|
+* 4种数据预处理方法 (axis=0 列，axis=1 行)
+	* 中心化 Y=X-aver;xi-x-
+	* 自标度化 Y=(x-aver)/std
+	* 标准化
+		* 色谱面积最大化 xi=xi/sum.xi
+		* 质谱最大归一化 xi=xi/max.x
+	 	
+	 	
 <summary>Formulas</summary>
 <details>
   
