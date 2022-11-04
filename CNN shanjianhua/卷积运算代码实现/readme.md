@@ -42,3 +42,9 @@ A-->C[0填充]
   ![image](https://user-images.githubusercontent.com/87826552/199670299-d426c999-4f68-4d96-94b9-d342cd14ee6a.png)
 
 </details>
+
+
+
+# Non-filling result：
+![6kernels](https://user-images.githubusercontent.com/87826552/199881544-a5c097c4-38fd-4230-bdd4-5c519e3c1c71.png)
+
